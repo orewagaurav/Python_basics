@@ -1,0 +1,10 @@
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second numbe: "))
+
+print("Sum of the number is: ", a+b)
+print("Difference of the number is: ", a-b)
+print("Product of the number is: ", a*b)
+print("Quotient of the number is: ", a/b)
+print("Remainder of the number is: ", a%b)
+print("Float Division of the number is: ", a//b)
+print("Power of the number is: ", a**b)
