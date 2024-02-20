@@ -13,3 +13,4 @@ if(s == n):
 else:
     print("Armstrong Nhi Hai!")
 
+# n = int(input("num: "))

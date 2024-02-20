@@ -17,6 +17,6 @@ for i in range(a,b+1):
         if(i%j==0):
             flag=0 #iska mtlb prime number nhi hai!
             break
-        
+
     if flag:
-        print(i,end = "\n") 
+        print(i,end = "\n")
