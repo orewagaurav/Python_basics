@@ -1,2 +1,4 @@
-# Python_basics
-In this repository I have uploaded all the codes that I am doing in the Python Training class in College.
+<details><summary>
+<h1>Basics programs <img src="https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif" width="100">
+  
+</h1></summary><br>
