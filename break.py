@@ -4,3 +4,5 @@ for i in range(3,7):
         break
     else:
         print(i)
+
+print("Hello GitHub")
